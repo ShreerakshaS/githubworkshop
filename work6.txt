@@ -1,2 +1,4 @@
 
 revert1 bug fixed
+
+bug fix in profile panel
