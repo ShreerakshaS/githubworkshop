@@ -1,0 +1,36 @@
+# Clone Repository
+git clone https://github.com/siddheshgunjal/githubworkshop.git
+
+# Git Status
+git status
+
+# Create branch
+git branch test1
+
+# List branches
+git branch --list
+
+# Checkout branch
+git checkout test1
+
+# Pushing to Remote
+git add <file>
+git add -A
+
+git commit -m "commit message"
+git push -u origin main
+
+# Pulling from Remote
+git pull
+git pull <remote>
+
+# Revert
+git log --oneline
+git revert e33bb1c
+
+
+# Merge
+git checkout dev
+git fetch
+git merge <branch-name>
+https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
